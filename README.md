@@ -1,1 +1,1 @@
-# Proyecto Sitio Web: Turismo en Arequipa.
+# Proyecto Sitio Web: Turismo en Chiclayo.
